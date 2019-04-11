@@ -1,0 +1,9 @@
+{
+  "name": "comp308-final-project",
+  "version": "0.0.0",
+  "description": "COMP308FinalProject",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
